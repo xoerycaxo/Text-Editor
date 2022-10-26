@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "challenge 19",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
@@ -12,14 +12,24 @@
     "client": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "Eryca",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "idb": "^7.1.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoerycaxo/Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xoerycaxo/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/xoerycaxo/Text-Editor#readme"
 }
