@@ -31,7 +31,7 @@ This is a single page application that can run in the browser or run offline.
 
 Have any questions about this application please contact me at:
 
-GitHub:[https://github.com/xoerycaxo/Text-Editor](#https://github.com/xoerycaxo/Text-Editor)
+GitHub: [https://github.com/xoerycaxo/Text-Editor](#https://github.com/xoerycaxo/Text-Editor)
 
 Email: [xoerycaxo@gmail.com](#xoerycaxo@yahoo.com)
 
